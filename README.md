@@ -51,7 +51,7 @@ Ask in your own words:
 - "Only my-app, October."
 - "Compare the last two weeks with the two weeks before. Did the repeats go down?"
 
-Results go to `~/Documents/work-to-skills/`. To preview one first, download and open [`examples/sample-report.en.html`](examples/sample-report.en.html) (made-up data).
+Results go to `~/Documents/work-to-skills/`. To preview one first, download and open [`sample-report.en.html`](https://github.com/Soulddgy/work-to-skills/blob/assets/examples/sample-report.en.html) (made-up data).
 
 ## Privacy and what it accesses
 

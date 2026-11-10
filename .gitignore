@@ -6,4 +6,3 @@ __pycache__/
 data/
 report_*.html
 history.json
-!examples/sample-data/*/history.json

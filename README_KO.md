@@ -51,7 +51,7 @@ Claude를 오래 쓰다 보면 같은 일을 할 때마다 같은 말을 반복�
 - "my-app 만 놓고 10월 작업 패턴 분석해줘"
 - "최근 2주를 그 전 2주랑 비교해서 반복이 줄었는지 보여줘"
 
-결과는 `~/Documents/work-to-skills/` 에 생깁니다. 미리 보고 싶으면 [`examples/sample-report.ko.html`](examples/sample-report.ko.html) 을 내려받아 열어 보세요(가짜 데이터).
+결과는 `~/Documents/work-to-skills/` 에 생깁니다. 미리 보고 싶으면 [`sample-report.ko.html`](https://github.com/Soulddgy/work-to-skills/blob/assets/examples/sample-report.ko.html) 을 내려받아 열어 보세요(가짜 데이터).
 
 ## 개인정보와 접근 범위
 

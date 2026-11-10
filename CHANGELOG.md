@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.3 — 2026-11-10
+
+- Moved the sample reports and sample data (`examples/`) to the `assets` branch, so the plugin files on main are only the manifest, the skill and its two scripts. The directory scan reported it could not confirm it read the whole plugin (`LOCAL_CODE_NOT_CHECKED`); the two generated sample reports alone were over 200 KB of single-line HTML. The README links point to the copies on the `assets` branch.
+
 ## 0.3.2 — 2026-10-26
 
 - Added a privacy policy (`PRIVACY.md`), linked from plugin.json (`privacyPolicyUrl`) and both READMEs.
